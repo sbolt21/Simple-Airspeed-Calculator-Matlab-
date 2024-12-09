@@ -1,0 +1,12 @@
+Altitude Inputted: 10.000 meters
+Δ Pressure Inputted: 10.000 kPa
+AOA Inputted: 10.00 degrees
+Air Density: 1.2240 kg/m^3
+Air Pressure: 101.205 kPa
+True Airspeed: 286.631 mph
+Indicated Airspeed: 285.24 mph
+Equivalent Airspeed: 285.937 mph
+Mach Number: 0.377
+Rate of Climb/Descent (TAS): 49.773 mph
+Rate of Climb/Descent (IAS): 49.532 mph
+Rate of Climb/Descent (EAS): 49.652 mph
